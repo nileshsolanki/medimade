@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "1063816610432",
+    "firebase_url": "https://medicine-57947.firebaseio.com",
+    "project_id": "medicine-57947",
+    "storage_bucket": "medicine-57947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063816610432:android:950631f52383c9e71edc65",
+        "android_client_info": {
+          "package_name": "com.jessicathornsby.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063816610432-1l0a0oen8nmsng764k4n9fa2rcgus178.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jessicathornsby.myapplication",
+            "certificate_hash": "67d252a727caa2d06f8fd3ee9efe17b05ca6e158"
+          }
+        },
+        {
+          "client_id": "1063816610432-56hb479qeisq3v75qoarpd0ce6dcpfj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRXAtlrp1Bq3wDzA67sRqDvl5fgim7HxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063816610432-56hb479qeisq3v75qoarpd0ce6dcpfj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063816610432:android:47904ffd7c4eae2d1edc65",
+        "android_client_info": {
+          "package_name": "com.nilesh.medimate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063816610432-12a8ia2ohaciqhs74r8760enp3u5jlf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nilesh.medimate",
+            "certificate_hash": "67d252a727caa2d06f8fd3ee9efe17b05ca6e158"
+          }
+        },
+        {
+          "client_id": "1063816610432-56hb479qeisq3v75qoarpd0ce6dcpfj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRXAtlrp1Bq3wDzA67sRqDvl5fgim7HxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063816610432-56hb479qeisq3v75qoarpd0ce6dcpfj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
